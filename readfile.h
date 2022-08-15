@@ -1,0 +1,1 @@
+char * readfile(const char *filename);
